@@ -52,15 +52,3 @@ export default function Characters() {
      );
   
     }
- // return (
-          //   // <div className="character-list " key={data._id}>
-          //   //   <h2>
-          //   //     {data.name}
-          //   //   </h2>
-          //   //   <h3 className="capital">Role: {data.role}</h3>
-          //   //   <h3 className="capital">House: {data.house}</h3>
-          //   //   <h3 className="capital">Wand: {data.wand}</h3>
-          //   //   <h3 className="capital">Patronus: {data.patronus}</h3>
-          //   //   <h3 className="capital">Blood Status: {data.bloodStatus}</h3>
-          //   // </div>
-          // );
